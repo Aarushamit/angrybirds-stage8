@@ -1,2 +1,2 @@
-# angrybirds-stage8
-angrybirds game bug fixes
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
